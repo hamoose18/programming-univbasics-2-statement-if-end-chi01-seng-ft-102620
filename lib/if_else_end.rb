@@ -6,3 +6,5 @@ if current_time.even?
 else 
   puts "Odd!"
 end 
+
+p current_time
